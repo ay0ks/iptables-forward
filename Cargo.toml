@@ -1,0 +1,11 @@
+[package]
+name = "iptables-forward"
+authors = ["Dimitiry \"ay0ks\" <me@ay0ks.wtf>"]
+repository = "https://github.com/ay0ks/iptables-forward"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.9", features = ["derive"] }
+ariadne = "0.4.1"
+peekable-fwd-bwd = "1.0.0"
