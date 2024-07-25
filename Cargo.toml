@@ -1,6 +1,6 @@
 [package]
 name = "iptables-forward"
-authors = ["Dimitiry \"ay0ks\" <me@ay0ks.wtf>"]
+authors = ["Dimitiry \"ay0ks\" <ay0o0ks000@gmail.com>"]
 repository = "https://github.com/ay0ks/iptables-forward"
 license = "MIT"
 version = "0.1.0"
